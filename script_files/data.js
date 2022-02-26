@@ -67,7 +67,7 @@ var animation = bodymovin.loadAnimation({
     renderer: 'svg',
     loop: false,
     autoplay: true,
-    path: 'Animations/drag.json',
+    path: 'Animations/Drag.json',
   })
 
 
